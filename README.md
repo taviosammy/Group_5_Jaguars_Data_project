@@ -35,7 +35,11 @@ Creators:
 - What features best predict heart disease in patients?
 -
 
+# Machine Learning Model
+
+![image](https://user-images.githubusercontent.com/99847046/178033359-39a7cf9f-e0a9-41bc-acef-5ea630665311.png)
+
 # Database Model
 
 
-# Machine Learning Model
+
