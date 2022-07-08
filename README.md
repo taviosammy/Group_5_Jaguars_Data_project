@@ -38,8 +38,14 @@ Creators:
 # Machine Learning Model
 
 ![image](https://user-images.githubusercontent.com/99847046/178033359-39a7cf9f-e0a9-41bc-acef-5ea630665311.png)
+_______________________________________________________________________________________________________________
 
 # Database Model
+
+![image](https://user-images.githubusercontent.com/99847046/178034307-c2057580-f842-472b-8a9e-3a0b074de501.png)
+
+![image](https://user-images.githubusercontent.com/99847046/178034352-b6884147-f469-49af-aa07-22f423299dc1.png)
+
 
 
 
