@@ -4,6 +4,11 @@
 # Why Heart Disease ?
  - Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States.
  - About 659,000 people in the United States die from heart disease each year—that’s 1 in every 4 deaths.
+ - Every year, about 805,000 people in the United States have a heart attack. 
+   Of these,
+   1. 605,000 are a first heart attack.
+   2. 200,000 happen to people who have already had a heart attack.
+   3. About 1 in 5 heart attacks is silent—the damage is done, but the person is not aware of it.
  
  The prevalence of heart disease is a major health issue in the United States.  Its prevalence means there is a breath of useful data
  available.  This is due to the many health organizations seeking to limit its effects on our nation's population.  The target is pretty straight forward.
