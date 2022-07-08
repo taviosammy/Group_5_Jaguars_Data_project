@@ -6,9 +6,9 @@
  - About 659,000 people in the United States die from heart disease each year—that’s 1 in every 4 deaths.
  
  The prevalence of heart disease is a major health issue in the United States.  Its prevalence means there is a breath of useful data
- available as many health organizations seek to limit it's effects on our nation's population.  The target is pretty straight forward.
+ available.  This is due to the many health organizations seeking to limit its effects on our nation's population.  The target is pretty straight forward.
  What are the features that can accurately predict heart disease?  Our team believes this is both a practical use of machine learning models 
- as well as a symbolically noble topic to persue due to the benefits such research can potentially have on our society.
+ as well as a symbolically noble topic to investigate due to the benefits such research can potentially have on our society.
 
 # Source of data
 
@@ -26,9 +26,9 @@ Creators:
 
 ## Software expected to be used
 
-QuickDBD
-POSTGRES
-Jupyter Notebooks
+* QuickDBD
+* POSTGRES / PGADMIN
+* Jupyter Notebooks
 
 # Questions they hope to answer with the data: 
 
