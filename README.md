@@ -30,7 +30,7 @@ Creators:
 * POSTGRES / PGADMIN
 * Jupyter Notebooks
 
-# Questions they hope to answer with the data: 
+# Questions we hope to answer with this data: 
 
 - What features best predict heart disease in patients?
 -
