@@ -33,7 +33,7 @@ Creators:
 
 * QuickDBD
 * POSTGRES / PGADMIN
-* Jupyter Notebooks
+* Jupyter Notebook
 
 # Questions we hope to answer with this data: 
 
