@@ -1,4 +1,4 @@
-Pt ID,Age,Sex,Chest_pain_type,BP,Cholesterol,FBS_over_120,EKG_results,Max_HR,Exercise_angina,ST_depression,Slope_of_ST,Number_of_vessels_fluro,Thallium,Heart_Disease
+PtID,Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingEKG,MaxHR,ExerciseAngina,OldPeak,ST_Slope,Number_of_Vessel_Flouro,Thallium,HeartDisease
 10157,43,1,4,110,211,0,0,161,0,0,1,0,7,Absence
 10436,45,1,4,115,260,0,2,185,0,0,1,0,3,Absence
 10437,64,1,4,145,212,0,2,132,0,2,2,2,6,Presence
