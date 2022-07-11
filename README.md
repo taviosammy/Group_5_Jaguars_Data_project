@@ -48,7 +48,10 @@ ________________________________________________________________________________
 # Database Model
 ![image](https://user-images.githubusercontent.com/99847046/178179616-894bf1dc-4e09-4e8f-8a35-333de75a9149.png)
 
-![image](https://user-images.githubusercontent.com/99847046/178034352-b6884147-f469-49af-aa07-22f423299dc1.png)
+![image](https://user-images.githubusercontent.com/99847046/178179883-1fcfb0a6-466b-479f-ab94-c3fe272ad742.png)
+
+![image](https://user-images.githubusercontent.com/99847046/178179915-8604d40b-825f-4527-a375-3f2ffea5db38.png)
+
 
 
 
