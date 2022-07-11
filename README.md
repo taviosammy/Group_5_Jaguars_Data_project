@@ -34,11 +34,13 @@ Creators:
 * QuickDBD
 * POSTGRES / PGADMIN
 * Jupyter Notebook
+* Python
+* Heroku
 
 # Questions we hope to answer with this data: 
 
 - What features best predict heart disease in patients?
--
+
 
 # Machine Learning Model
 
