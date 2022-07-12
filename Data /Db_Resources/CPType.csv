@@ -1,0 +1,5 @@
+﻿chestpaintype,cp_type_desc,cp_type_short
+1,typical angina,TA
+2,atypical angina,ATA
+3,non-anginal pain,NAP
+4,asymtomatic,ASY
