@@ -39,7 +39,16 @@ Creators:
 
 # Questions we hope to answer with this data: 
 
-- What features best predict heart disease in patients?
+* What are the contributing factors that can predict the presence of heart disease?
+
+* How well do these factors indicate the presence of heart disease?
+
+* How do these factors signal a patient having heart disease?
+
+* What trends can be highlighted when considering heart disease prevention?
+
+* What demographics can we expect to be more or less susceptible to heart disease?
+
 
 
 # Machine Learning Model
