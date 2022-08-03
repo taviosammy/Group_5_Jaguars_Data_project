@@ -64,9 +64,13 @@ ________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/99847046/178179915-8604d40b-825f-4527-a375-3f2ffea5db38.png)
 
 
-Presentation Draft Link :
+Presentation Link :
 
 https://docs.google.com/presentation/d/1779DYPDNar5ZHVHra1hGqwDvsdGls7LD4LIPQk0_qZ0/edit?usp=sharing
+
+Dashboard Link: 
+
+https://public.tableau.com/app/profile/tavoi.samuels/viz/Group_5_Heart-Disease/HeartDiseaseDashboard?publish=yes
 
 
 
